@@ -2,10 +2,10 @@
 Collection of diverse useful links
 
 ## Textures 
-* (textures.com) 15 Textures are free at a low resolution. Payment possible for more images and higher quality.
+* 15 Textures are free at a low resolution. Payment possible for more images and higher quality. (https://www.textures.com/)
 
 ## Models 
-* Community platform for models (blendswap.com)
+* Community platform for models (https://www.blendswap.com/)
 
 ## HDRI Images 
 * 360° Images (https://www.hdri-hub.com/hdrishop/freesamples)
